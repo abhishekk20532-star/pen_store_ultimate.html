@@ -1,0 +1,714 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>Beneficiary_Verification</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head><body><table>
+						<thead>
+							<tr class="tableheader">
+								<td rowspan="2">Sl.No</td>
+								<td rowspan="2">District</td>
+								<td colspan="2">Performed</td>
+								<td rowspan="2">Pending</td>
+								<td rowspan="2">Rejected</td>
+								<!-- <td rowspan="2">Already<br/>Approved</td> -->
+								<td rowspan="2">Approved</td>								
+							</tr>
+						<tr class="tableheader">
+						  <td>Today</td>
+						  <td>Total</td>
+						  </tr>
+						</thead>
+									
+						<tbody>		
+						 <tr>															
+							<td align="center">1</td>
+							<td>
+							
+							Araria							
+							
+							
+							</td>
+							<td align="right">724</td>
+							<td align="right">1981800</td>							
+							<td align="right"><font size="3px" color="#006600">93373</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">108541</font></td>
+							
+							<td align="right">1645576</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">2</td>
+							<td>
+							
+							Arwal							
+							
+							
+							</td>
+							<td align="right">194</td>
+							<td align="right">390320</td>							
+							<td align="right"><font size="3px" color="#006600">2882</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">80262</font></td>
+							
+							<td align="right">306600</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">3</td>
+							<td>
+							
+							Aurangabad							
+							
+							
+							</td>
+							<td align="right">705</td>
+							<td align="right">1384309</td>							
+							<td align="right"><font size="3px" color="#006600">11934</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">90594</font></td>
+							
+							<td align="right">1231864</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">4</td>
+							<td>
+							
+							Banka							
+							
+							
+							</td>
+							<td align="right">312</td>
+							<td align="right">1465392</td>							
+							<td align="right"><font size="3px" color="#006600">10026</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">151372</font></td>
+							
+							<td align="right">1285808</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">5</td>
+							<td>
+							
+							Begusarai							
+							
+							
+							</td>
+							<td align="right">387</td>
+							<td align="right">2038015</td>							
+							<td align="right"><font size="3px" color="#006600">96566</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">324329</font></td>
+							
+							<td align="right">1416840</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">6</td>
+							<td>
+							
+							Bhagalpur							
+							
+							
+							</td>
+							<td align="right">615</td>
+							<td align="right">2010518</td>							
+							<td align="right"><font size="3px" color="#006600">23379</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">119701</font></td>
+							
+							<td align="right">1853964</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">7</td>
+							<td>
+							
+							Bhojpur							
+							
+							
+							</td>
+							<td align="right">1161</td>
+							<td align="right">1575541</td>							
+							<td align="right"><font size="3px" color="#006600">7760</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">170840</font></td>
+							
+							<td align="right">1388475</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">8</td>
+							<td>
+							
+							Buxar							
+							
+							
+							</td>
+							<td align="right">259</td>
+							<td align="right">969034</td>							
+							<td align="right"><font size="3px" color="#006600">3944</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">77021</font></td>
+							
+							<td align="right">887780</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">9</td>
+							<td>
+							
+							Darbhanga							
+							
+							
+							</td>
+							<td align="right">1183</td>
+							<td align="right">2710839</td>							
+							<td align="right"><font size="3px" color="#006600">8421</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">259487</font></td>
+							
+							<td align="right">2431204</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">10</td>
+							<td>
+							
+							Gaya							
+							
+							
+							</td>
+							<td align="right">789</td>
+							<td align="right">2487034</td>							
+							<td align="right"><font size="3px" color="#006600">52456</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">231340</font></td>
+							
+							<td align="right">2187262</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">11</td>
+							<td>
+							
+							Gopalganj							
+							
+							
+							</td>
+							<td align="right">540</td>
+							<td align="right">1488257</td>							
+							<td align="right"><font size="3px" color="#006600">35842</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">80471</font></td>
+							
+							<td align="right">1336398</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">12</td>
+							<td>
+							
+							Jamui							
+							
+							
+							</td>
+							<td align="right">777</td>
+							<td align="right">1173099</td>							
+							<td align="right"><font size="3px" color="#006600">24212</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">50214</font></td>
+							
+							<td align="right">997144</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">13</td>
+							<td>
+							
+							Jehanabad							
+							
+							
+							</td>
+							<td align="right">63</td>
+							<td align="right">630933</td>							
+							<td align="right"><font size="3px" color="#006600">25696</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">41741</font></td>
+							
+							<td align="right">545883</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">14</td>
+							<td>
+							
+							Kaimur (Bhabua)							
+							
+							
+							</td>
+							<td align="right">1059</td>
+							<td align="right">1004487</td>							
+							<td align="right"><font size="3px" color="#006600">23952</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">84635</font></td>
+							
+							<td align="right">886114</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">15</td>
+							<td>
+							
+							Katihar							
+							
+							
+							</td>
+							<td align="right">1449</td>
+							<td align="right">2277393</td>							
+							<td align="right"><font size="3px" color="#006600">35429</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">120393</font></td>
+							
+							<td align="right">2118341</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">16</td>
+							<td>
+							
+							Khagaria							
+							
+							
+							</td>
+							<td align="right">2060</td>
+							<td align="right">1154734</td>							
+							<td align="right"><font size="3px" color="#006600">5225</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">73674</font></td>
+							
+							<td align="right">1057993</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">17</td>
+							<td>
+							
+							Kishanganj							
+							
+							
+							</td>
+							<td align="right">2881</td>
+							<td align="right">1185567</td>							
+							<td align="right"><font size="3px" color="#006600">11688</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">61945</font></td>
+							
+							<td align="right">1098605</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">18</td>
+							<td>
+							
+							Lakhisarai							
+							
+							
+							</td>
+							<td align="right">115</td>
+							<td align="right">680706</td>							
+							<td align="right"><font size="3px" color="#006600">62306</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">29342</font></td>
+							
+							<td align="right">557750</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">19</td>
+							<td>
+							
+							Madhepura							
+							
+							
+							</td>
+							<td align="right">1110</td>
+							<td align="right">1280257</td>							
+							<td align="right"><font size="3px" color="#006600">5905</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">93824</font></td>
+							
+							<td align="right">1177440</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">20</td>
+							<td>
+							
+							Madhubani							
+							
+							
+							</td>
+							<td align="right">3437</td>
+							<td align="right">2828574</td>							
+							<td align="right"><font size="3px" color="#006600">12187</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">189844</font></td>
+							
+							<td align="right">2620151</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">21</td>
+							<td>
+							
+							Munger							
+							
+							
+							</td>
+							<td align="right">63</td>
+							<td align="right">821633</td>							
+							<td align="right"><font size="3px" color="#006600">27970</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">54572</font></td>
+							
+							<td align="right">724624</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">22</td>
+							<td>
+							
+							Muzaffarpur							
+							
+							
+							</td>
+							<td align="right">464</td>
+							<td align="right">3260681</td>							
+							<td align="right"><font size="3px" color="#006600">40339</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">175672</font></td>
+							
+							<td align="right">3027886</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">23</td>
+							<td>
+							
+							Nalanda							
+							
+							
+							</td>
+							<td align="right">3499</td>
+							<td align="right">1808607</td>							
+							<td align="right"><font size="3px" color="#006600">58823</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">222737</font></td>
+							
+							<td align="right">1478286</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">24</td>
+							<td>
+							
+							Nawada							
+							
+							
+							</td>
+							<td align="right">256</td>
+							<td align="right">1352256</td>							
+							<td align="right"><font size="3px" color="#006600">31512</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">99186</font></td>
+							
+							<td align="right">954040</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">25</td>
+							<td>
+							
+							Pashchim Champaran							
+							
+							
+							</td>
+							<td align="right">1259</td>
+							<td align="right">2569860</td>							
+							<td align="right"><font size="3px" color="#006600">19618</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">202546</font></td>
+							
+							<td align="right">2333757</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">26</td>
+							<td>
+							
+							Patna							
+							
+							
+							</td>
+							<td align="right">1515</td>
+							<td align="right">3100985</td>							
+							<td align="right"><font size="3px" color="#006600">97942</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">292808</font></td>
+							
+							<td align="right">2703975</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">27</td>
+							<td>
+							
+							Purbi Champaran							
+							
+							
+							</td>
+							<td align="right">2242</td>
+							<td align="right">3287397</td>							
+							<td align="right"><font size="3px" color="#006600">91296</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">213475</font></td>
+							
+							<td align="right">2784230</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">28</td>
+							<td>
+							
+							Purnia							
+							
+							
+							</td>
+							<td align="right">822</td>
+							<td align="right">2231644</td>							
+							<td align="right"><font size="3px" color="#006600">16519</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">116908</font></td>
+							
+							<td align="right">1950898</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">29</td>
+							<td>
+							
+							Rohtas							
+							
+							
+							</td>
+							<td align="right">1276</td>
+							<td align="right">1743847</td>							
+							<td align="right"><font size="3px" color="#006600">5834</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">255921</font></td>
+							
+							<td align="right">1476589</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">30</td>
+							<td>
+							
+							Saharsa							
+							
+							
+							</td>
+							<td align="right">226</td>
+							<td align="right">1345896</td>							
+							<td align="right"><font size="3px" color="#006600">120304</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">49996</font></td>
+							
+							<td align="right">1102326</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">31</td>
+							<td>
+							
+							Samastipur							
+							
+							
+							</td>
+							<td align="right">432</td>
+							<td align="right">2920689</td>							
+							<td align="right"><font size="3px" color="#006600">139977</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">134371</font></td>
+							
+							<td align="right">2492897</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">32</td>
+							<td>
+							
+							Saran							
+							
+							
+							</td>
+							<td align="right">966</td>
+							<td align="right">2134505</td>							
+							<td align="right"><font size="3px" color="#006600">61175</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">239040</font></td>
+							
+							<td align="right">1831121</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">33</td>
+							<td>
+							
+							Sheikhpura							
+							
+							
+							</td>
+							<td align="right">155</td>
+							<td align="right">397028</td>							
+							<td align="right"><font size="3px" color="#006600">115420</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">10616</font></td>
+							
+							<td align="right">244144</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">34</td>
+							<td>
+							
+							Sheohar							
+							
+							
+							</td>
+							<td align="right">21</td>
+							<td align="right">445341</td>							
+							<td align="right"><font size="3px" color="#006600">449</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">35881</font></td>
+							
+							<td align="right">408997</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">35</td>
+							<td>
+							
+							Sitamarhi							
+							
+							
+							</td>
+							<td align="right">863</td>
+							<td align="right">2209224</td>							
+							<td align="right"><font size="3px" color="#006600">15645</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">94877</font></td>
+							
+							<td align="right">2066056</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">36</td>
+							<td>
+							
+							Siwan							
+							
+							
+							</td>
+							<td align="right">1331</td>
+							<td align="right">2028247</td>							
+							<td align="right"><font size="3px" color="#006600">51411</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">109579</font></td>
+							
+							<td align="right">1809139</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">37</td>
+							<td>
+							
+							Supaul							
+							
+							
+							</td>
+							<td align="right">1021</td>
+							<td align="right">1585605</td>							
+							<td align="right"><font size="3px" color="#006600">5124</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">89487</font></td>
+							
+							<td align="right">1468591</td>
+						</tr>						
+						
+						</tbody><tbody>		
+						 <tr>															
+							<td align="center">38</td>
+							<td>
+							
+							Vaishali							
+							
+							
+							</td>
+							<td align="right">1567</td>
+							<td align="right">2115583</td>							
+							<td align="right"><font size="3px" color="#006600">10008</font></td>
+							
+							<td align="right"><font size="3px" color="#e62e00">238698</font></td>
+							
+							<td align="right">1853364</td>
+						</tr>						
+						
+							</tbody>
+							<tbody><tr class="tableheader">
+							<td colspan="2">Total</td>
+							<td align="right">37798</td>
+							<td align="right">66075837</td>							
+							<td align="right">1462549</td>
+							<td align="right">5075940</td>
+							
+							<td align="right">57742112</td>
+							</tr>
+							<tr><td colspan="7" align="right">Refresh Time : 2025-12-26 12:40:01</td></tr>
+													
+					</tbody></table></body></html>
